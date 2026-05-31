@@ -23,6 +23,8 @@ This document lists reliable (per initial online research, not personal experien
 - Most complete U.S. kits come from here.
 - Good reputation for T4 drivetrain parts.
 
+  as previously noted: https://vwdieselking.com/vw-auto-to-standard-conversion-kits/
+
 ---
 
 ## B. TheSamba Classifieds (U.S.)
