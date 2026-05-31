@@ -56,43 +56,30 @@ This repository exists to:
 
 These links represent the most credible, technically detailed, and community‑validated sources confirming successful VR6 manual swaps.
 
-### **1. Grassroots Motorsports — Full DIY Manual Swap Build**
-A photo‑rich, step‑by‑step manual‑swap build on a Eurovan MV.  
-https://grassrootsmotorsports.com/forum/build-projects-and-project-cars/volkswagen-eurovan-manual-swap/203566/page1/
+### **1. TheSamba — Eurovan Manual Swap Discussions**
+Technical threads with swap details:
+- **[TheSamba.com :: Eurovan – Automatic 01P to 02G manual swap on 2003 AXK VR6](https://www.thesamba.com/vw/forum/viewtopic.php?p=10155622#10155622)**  
+- **[TheSamba.com :: Eurovan – 2003 Eurovan MV VR6 24V manual swap notes](https://www.thesamba.com/vw/forum/viewtopic.php?t=765099&highlight=manual+swap+notes)**  
+- **[TheSamba.com :: Eurovan – Manual‑swap check‑engine‑light solution (TCM emulator)](https://www.thesamba.com/vw/forum/viewtopic.php?t=776051&highlight=emulator)**
 
-### **2. TheSamba — Eurovan Manual Swap Discussions**
-Long‑running technical threads with multiple confirmed swaps.  
-https://www.thesamba.com/vw/forum/viewforum.php?f=6
 
-### **3. Rialta/Eurovan VR6 Manual Swap Documentation (Ed Tornick)**
-The most complete VR6‑specific manual‑swap documentation available.  
-https://www.rialtainfo.com/manual-swap.html
 
-### **4. T4 UK/DE Breaker Market (02G donor transmissions)**
-Representative listings for European‑market 02G transmissions.  
-https://www.ebay.co.uk  
-https://www.ebay.de
+
 
 ---
 
-## 🛠️ Known Builders / Converters (PNW + Vancouver)
+## 🛠️ Known Builders / Converters / Parts suppliers
 
-These are the three most consistently referenced builders in the North American T4 community. They have documented work, community validation, or both.
+Currently no known builders in the North American T4 community. I aspire to linking to documented work, community validation, or both.
 
-### **1. Slavic (Vancouver, WA) — T4 Manual & TDI Conversions**
-Widely regarded as the most experienced T4 converter in the U.S.  
-YouTube channel with multiple T4 builds:  
-https://www.youtube.com/@slavict4
+### **1. Slavic (Vancouver, WA) — T4 Manual & TDI Conversions Specialist/Builder**
+rumored by AI as experienced T4 converter in the U.S.  
+YouTube channel with multiple T4 builds and posts on Samba seem to be halucinations.
+If anyone knows where to find him, or any other valid builder out west, out east, wherever... let me know!:  
 
-### **2. rcowan (Pacific Northwest) — Eurovan/T4 Specialist**
-Long‑time contributor on TheSamba with multiple manual/TDI conversions.  
-Profile & posts:  
-https://www.thesamba.com/vw/forum/profile.php?mode=viewprofile&u=123951
-
-### **3. Joshwa (Pacific Northwest) — Eurovan Builder**
-Another respected T4 builder with documented conversions.  
-Profile & posts:  
-https://www.thesamba.com/vw/forum/profile.php?mode=viewprofile&u=195418
+### **2. placeholder — Eurovan/T4 parts**
+placeholder
+maybe, for parts: https://vwdieselking.com/vw-auto-to-standard-conversion-kits/
 
 ---
 
